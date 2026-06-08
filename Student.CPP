@@ -3,24 +3,38 @@
 using namespace std;
 
 class Student {
+private:
+   float aadhar number;
+   string email ID;
 public:
     int roll;
     string name;
     float marks;
 
-    void input() {
-        cout << "Roll No: ";
-        cin >> roll;
-        cout << "Name: ";
-        cin >> name;
-        cout << "Marks: ";
-        cin >> marks;
-    }
+   void set aadhar number (float a.n)
+{
+    aadhar number= a.n;
+}
+void set email ID (string e.i)
+{
+   email ID = e.i;
+}
+ float get aadhar number()
+{
+ return aadhar number;
+}
+string email ID ()
+{
+return email ID;
+}
+void display ()
+{
+cout<< "roll:"<< roll << endl;
+cout<< "name:"<< name << endl;
+cout<< "marks:"<< marks << endl;
 
-    void display() {
-        cout << "Roll: " << roll << " | Name: " << name << " | Marks: " << marks << endl;
-    }
 };
+
 
 int main() {
     Student s[100];
