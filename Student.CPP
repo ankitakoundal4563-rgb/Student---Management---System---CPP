@@ -32,7 +32,7 @@ void display ()
 cout<< "roll:"<< roll << endl;
 cout<< "name:"<< name << endl;
 cout<< "marks:"<< marks << endl;
-
+}
 };
 
 
