@@ -1,2 +1,3 @@
-![Add_Student_Option](Screenshot-2020260608-10512.jpg)
-![Show_All_Students](Screenshot-2020260608-10512.jpg)
+
+![Add Student Option](Screenshot_20260608-10512.jpg)
+![Show All Students](Screenshot_20260608-11013.jpg)
