@@ -1,4 +1,2 @@
-
-### Output Screenshots
-![Add Student Option](Screenshot_20260608-10512.jpg)
-![Show All Students](Screenshot_20260608-11013.jpg)
+![Add Student Option](Screenshot%2020260608-10512.jpg)
+![Show All Students](Screenshot%2020260608-10512.jpg).
